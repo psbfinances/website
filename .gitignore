@@ -1,0 +1,14 @@
+# OSX
+.DS_Store
+
+build
+node_modules/
+npm-debug.log
+
+.idea
+.idea/workspace.xml
+.vscode
+
+# Misc
+.babelrc
+
